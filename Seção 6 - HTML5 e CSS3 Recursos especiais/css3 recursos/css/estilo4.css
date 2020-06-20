@@ -1,0 +1,75 @@
+
+
+/* prefixos
+@-webkit-keyframes animacao-caixa{
+  from {
+    background: red;
+  }
+  to {
+  background: green;
+  }
+
+}
+
+@-moz-keyframes animacao-caixa{
+  from {
+    background: red;
+  }
+  to {
+  background: green;
+  }
+
+}
+
+@-o-keyframes animacao-caixa{
+  from {
+    background: red;
+  }
+  to {
+  background: green;
+  }
+
+}
+*/
+@keyframes aniamacao-caixa{
+  from {
+    background: green;
+    border-radius: 0px;
+    top: 0;
+    left: 0;
+  }
+  to {
+  background: yellow;
+  border-radius: 300px;
+  top: 200px;
+  left: 200px;
+  }
+
+}
+/*keyframes = é chave de animação
+from = inicio da animação
+to = finalização
+*/
+
+#caixa {
+  width: 300px;
+  height: 300px;
+  background: red;
+  animation: aniamacao-caixa 2s 2s 3 alternate;
+    }
+
+  /*
+  /*referencia de animação
+  animation-name: aniamacao-caixa;
+  animation-duration: 5s;
+  animation-delay: 3s;
+   /*qts vai executar animação 
+  animation-iteration-count: 2;
+  /*direção da animação
+   animation-direction: alternate;
+
+   /*outra sintaxe para executar todas as funções*/
+   
+
+
+

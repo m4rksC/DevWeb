@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Press+Start+2P|VT323');
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
+body 
+	font-size: 1em;
+	font-family: 'Cutive Mono', monospace;
+	background: #e6e6e6;
+}
+
+#cabecalho{
+	background-color: #f7b600;
+	height: 200px;
+	text-align: center;
+ }
+
+ #logo h2{
+ 	padding-top: 50px;
+ 	font-size: 3em;
+ 	color: #9E9E9E;
+ 	font-family: 'Press Start 2P', cursive;
+ }
+
+  #logo span{
+ 	color: white;
+ }
+
+
+#cabecalho ul li{
+	margin-top: 20px;
+	margin-bottom: 50px;
+	font-size: 2em;
+	font-weight: bold;
+	padding: 15px;
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'VT323', monospace;
+}
+
+#cabecalho a {
+	color: white;
+}
+
+#cabecalho a:hover{
+	border: solid 10px white;
+	border-radius: 5px;
+	color: gray;
+	background: white;
+}
+
+#container {
+	float: left;
+	margin: auto;
+}
+
+#container-conteudo {
+	float: left;
+	margin-left: 130px;
+}
+
+/*======= Lateral ================================*/
+#container-lateral{
+	width: 330px;
+	float: left;
+	margin: 15px;
+}
+
+#container-lateral h3{
+	display: block;
+	background: #CCCCCC;
+	color: #565656;
+	padding: 10px;
+}
+
+
+#lateral-postagem{
+	margin: 0px;
+	padding: 15px;
+	background: white;
+}
+
+#lateral-categoria{
+	background: white;
+	margin-top: 15px;
+	padding: 15px;
+}
+
+.lateral-conteudo{
+	background: white;
+	padding: 15px;
+}
+
+#container-lateral a {
+	color: #F7B600;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#container-lateral p{
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+/*======= Conteudo ================================*/
+.conteudo {
+	width: 680px;
+	margin: 15px;
+	padding: 15px;
+	background: white;
+}
+
+.conteudo h2{
+	color: #F7B600;
+	font-weight: bold;
+}
+
+
+.conteudo a{
+	color: #F7B600;
+	font-weight: bold;
+
+}
+
+.conteudo span{
+	font-style: oblique;
+	font-size: 0.8em;
+	margin: 5px, auto;
+	color: #9E9E9E;
+
+}
+
+p{
+	margin-bottom: 10px;
+}
+
+hr {
+	margin: 10px;
+	color: #E6E6E6;
+
+}
+
+img{
+	margin: 20px;
+}
+
+/*=====================*/

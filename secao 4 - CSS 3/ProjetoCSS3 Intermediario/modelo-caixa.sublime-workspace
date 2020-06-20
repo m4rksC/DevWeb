@@ -1,0 +1,701 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"clear\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"al",
+				"alternate\tanimation-direction"
+			],
+			[
+				"ani",
+				"animation-direction\tproperty"
+			],
+			[
+				"an",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"anim",
+				"animation-name\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"pai",
+				"padding\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"text-t",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"text-al",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"n",
+				"pointer\tcursor"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"stle",
+				"list-style\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"tD",
+				"td\tTag"
+			],
+			[
+				"latimqua",
+				"latimQuaDom3"
+			],
+			[
+				"latimSeg",
+				"latimSegSab5"
+			],
+			[
+				"latimSe",
+				"latimSegSab4"
+			],
+			[
+				"latimS",
+				"latimSegSab3"
+			],
+			[
+				"latimter",
+				"latimTerSex4"
+			],
+			[
+				"latimte",
+				"latimTerSex3"
+			],
+			[
+				"latimSA",
+				"latimSegSab2"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w3-blue",
+				"w3-blue"
+			],
+			[
+				"w3-white",
+				"w3-white"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"es",
+				"escolha"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"w3-text-w",
+				"w3-text-white"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/Moseu/index.html",
+			"settings":
+			{
+				"buffer_size": 5099,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/Moseu/css/estilo.css",
+			"settings":
+			{
+				"buffer_size": 2571,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"m",
+				"Monokai Pro: select theme"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"colos",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/Moseu",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/Moseu/img"
+	],
+	"file_history":
+	[
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/Moseu/css/normalize.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/html5/flexbox-container.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/html5/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/html5/novas-tag.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/transicoes.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/animacoes.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/css/estilo4.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/css/estilo5.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/css/estilo2.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/css/estilo.css",
+		"/C/Users/athauan.reisoffice/AppData/Roaming/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/C/Users/athauan.reisoffice/AppData/Roaming/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/normalize.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/css/normalize.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/css3 recursos/normalize.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/03_NoticiasCidade/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/03_NoticiasCidade/indexCidade.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/02_Tecblog/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/02_Tecblog/indeTec.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/02_Tecblog/indexTec.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/02_Tecblog/img/imagem1.jpg",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/02_Tecblog/img/imagem2.jpg",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/01_AnnaBella/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/01_AnnaBella/contato.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/01_AnnaBella/camp.html",
+		"/C/Users/athauan.reisoffice/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/MyProjetos/01_AnnaBella/css/estilo",
+		"/C/Users/athauan.reisoffice/OneDrive/WEB-FL/repaginando/css/flestilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/WEB-FL/repaginando/indexFL.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/noticias-cidades/index.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Projetos/NoticiasCidade/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/WEB-FL/index.html",
+		"/C/Users/athauan.reisoffice/OneDrive/WEB-FL/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Chale/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Chale/index.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/noticias-cidades/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/css/tabelas.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/tabelas.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/css/personalizar.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/css/estilo3.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/css/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/css/estilo4.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/css/estilo1.css",
+		"/C/Users/athauan.reisoffice/OneDrive/MYSITE/ConfortareEstoVir/especial/Temas/Original.html",
+		"/C/Users/athauan.reisoffice/OneDrive/MYSITE/ConfortareEstoVir/especial/Natal.html",
+		"/C/Users/athauan.reisoffice/OneDrive/MYSITE/ConfortareEstoVir/especial/Terco.html",
+		"/C/Users/athauan.reisoffice/OneDrive/MYSITE/ConfortareEstoVir/especial/NossaSenhora.html",
+		"/C/Users/athauan.reisoffice/OneDrive/MYSITE/ConfortareEstoVir/especial/Original.html",
+		"/C/Users/athauan.reisoffice/OneDrive/MYSITE/ConfortareEstoVir/especial/TercoBackup.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/layout.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/indexHorizontal.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/heranca.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 5 - CSS3 Intermediário & avançado/seletores.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3 Intermediario/posicionamentos.html",
+		"/C/Users/athauan.reisoffice/Ath/outros/ConfortareEstoVir/FatumMagisterVester.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3 Intermediario/elementos-inline-block.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3 Intermediario/elementos-flutuantes.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3 Intermediario/elementos-flutuantes-pratica.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3 Intermediario/modelo-caixa.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3 Intermediario/estilo.css",
+		"/C/Users/athauan.reisofffice/AthauanArquivos/Favorites/Sapiência/MySite/ConfortareEstoVir/especial/Natal.html",
+		"/C/Users/athauan.reisofffice/AthauanArquivos/Favorites/Sapiência/MySite/ConfortareEstoVir/especial/Original.html",
+		"/C/Users/athauan.reisofffice/AthauanArquivos/Favorites/Sapiência/MySite/ConfortareEstoVir/especial/Pascoa.html",
+		"/C/Users/athauan.reisofffice/AthauanArquivos/Favorites/Sapiência/MySite/ConfortareEstoVir/especial/NossaSenhora.html",
+		"/C/Users/athauan.reisofffice/AthauanArquivos/Favorites/Sapiência/MySite/ConfortareEstoVir/especial/Latim.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/AnnaBella/css/estilo.css",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Desktop/ConfortareEstoVir/especial/TerçoPascoa.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/AnnaBella/index.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/estilo.css",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/pagina1.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/pagina2.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/tamnhos-textos.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/watilos-textos",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/bordas.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/div-span.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/classes-id.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/inline_style.html",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 4 - CSS 3/ProjetoCSS3/internal_style.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Desktop/ConfortareEstoVir/especial/LatimPascoa.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Desktop/ConfortareEstoVir/especial/Latim.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Documentos/ProjetoFinal/contato.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Documentos/ProjetoFinal/index.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Documentos/ProjetoFinal/quem-somos.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Documentos/ProjetoFinal/Imagens/capa.png",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Documentos/Projeto/index.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Documentos/Projeto/index",
+		"/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/seção 3 HTML/Projeto Aula/index",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Desktop/Projeto Aula/javascript/index.html",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/BackupLocalNote/Desktop/Projeto Aula/css/estilo.css",
+		"//sthhome/homeUsers$/athauan.reisoffice.SANTHERSA/PingInfoView.cfg"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"green",
+			"/li>",
+			"></",
+			"png",
+			"block",
+			"15px",
+			"conteudo",
+			"linear",
+			"repeat",
+			"navegacao",
+			"imagens",
+			"png",
+			"<td>R$ 2.500</td>",
+			"\"w3-container w3-black",
+			"w3-container w3-indigo",
+			"Eu sou um muito bem sucedido com as mulheres, ",
+			"class=\"w3-btn w3-white w3-border w3-border-indigo w3-hover-blue w3-small w3-margin\"",
+			"class=\"w3-btn w3-blue w3-border w3-border-white w3-hover-white w3-small w3-margin\"",
+			"w3-btn w3-blue w3-border w3-border-indigo w3-hover-white w3-small w3-margin",
+			"w3-btn w3-white w3-border w3-border-indigo w3-hover-indigo w3-small w3-margin",
+			"\"w3-center w3-panel w3-iwhitew3-border-white w3-card-4 w3-round-large",
+			"\"w3-center w3-panel w3-indigo w3-border-white w3-card-4 w3-round-large",
+			"w3-black",
+			"indigo",
+			"</iframe>",
+			"w3-red",
+			"3w-red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/Moseu/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4856,
+								4856
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3161.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/athauan.reisoffice/OneDrive/Cursos/Em Andamento/4.Desenvolvimento Web/Aulas/Seção 6 - HTML5 e CSS3 Recursos especiais/Moseu/css/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2355,
+								2355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3003.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.540995607614,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "modelo-caixa.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

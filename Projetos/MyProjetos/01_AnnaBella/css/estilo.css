@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css?family=Kalam|Knewave');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+	list-style: none;
+	font-family: 'Kalam', cursive;	
+}
+
+li a{
+	text-decoration-line:none;
+	font-family: 'Knewave', cursive;
+}
+
+body{
+	margin-top: 30px;
+	margin-bottom: 50px;
+	background: #C5C5B2 url(../img/fundo.png) repeat;
+}
+
+#container{
+	width: 900px;
+	height: auto;
+	margin: auto;
+	min-width: 740px;
+	max-width: 1180px;
+}
+
+#container #top {
+	height: 388px;
+	background: yellow;
+
+}
+
+#container #menu{
+	text-align: center;
+	height: 60px;
+	padding: 10px;
+	background: #C5C5B2;
+}
+
+#menu ul li a{
+	color: #4B566A;
+	font-size: 20px;
+	float: left;
+	padding: 20px;
+	cursor: pointer;
+
+
+}
+#container #conteudo{
+	background: #E8E8D9;
+	height: auto;
+	padding: 10px;
+}
+
+.fotos-conteudo{
+	border: #C3C3AE solid 15px;
+	margin: 20px 112px;
+}
+
+#container #rodape{
+	height: auto;
+	padding: 30px;
+	text-align: center;
+}
+
+#menu ul li a:hover{
+	color: white;
+}

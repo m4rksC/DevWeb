@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>JavaScript</title>
+	
+	<script>
+		//executar apos de 2 segundos
+		setTimeout(function(){document.write('Teste após de 2 segundos')}, 2000)
+
+		var i = 10
+
+		//executar cada 1 segundo
+		var x = setInterval(function() {document.write(i + '<br />')
+		 i--
+		 if(i==0)
+		 {
+		 	//window.location.reload()
+		 	clearInterval(x) //para a execução interval
+		 }
+
+		},1000) 
+		
+	</script>
+
+</head>
+<body>
+
+</body>

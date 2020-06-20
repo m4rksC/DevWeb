@@ -1,0 +1,84 @@
+*{
+	box-shadow: 0;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body{
+	background: #fff url(../img/fundo.png) repeat-x;
+}
+
+a{
+	text-decoration: none;
+}
+
+#container {
+	width: 720px;
+	height: 750px;
+	margin: 0 auto;
+}
+/*=========TOP =================*/
+#topo {
+	width: 720px;
+	height: 200px;
+	background: url(../img/detalhe-topo.png) no-repeat right top;
+}
+#logo{
+	margin-top: 20px;
+}
+
+#top #menu {
+	float: left;
+	margin-top:25px;
+	margin-left: 0;
+	
+}
+
+ #menu ul li{
+    margin-top: 30px;
+	 border: 15px solid red;
+ 	display: block;
+	float: left;
+	background: red;
+}
+
+#menu ul li a span {
+	 border: 15px solid blue;
+	background: blue;
+
+}
+/*========= Conteudo =================*/
+#conteudo-1 {
+	float: left;
+	height: 100%;
+	width: 160px;
+	display: block;
+	margin: 5px;
+	border: red 1px solid;
+}
+
+.titulo h3{
+	background: #294C71;
+	display: block;
+	margin: 10px;
+}
+/*========= Conteudo2 =================*/
+
+#conteudo-2 {
+	float: left;
+	height: 100%;
+	width: 170px;
+	background: green;
+	padding: 50px; 
+	margin: 5px;
+}
+/*========= Conteudo3 =================*/
+#conteudo-3 {
+	float: left;
+	height: 100%;
+	width: 170px;
+	background: blue;
+	padding: 50px; 
+	margin: 5px;
+}

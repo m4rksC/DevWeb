@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>JavaScript</title>
+	
+	<script>
+			function acao(){alert('Evento disparo')}
+			function acao1(){alert('Evento clicado')}
+			function acao2(){alert('O curso deixo a região do elemento')}
+	</script>
+
+<!--referenca https://www.w3schools.com/jsref/dom_obj_event.asp-->
+
+</head>
+<body>
+
+	<div onclick="acao('Teste')" style="background: #ccc; height: 150px; width: 150px;">
+		<h3>Onclick</h3>
+		<br/>
+		<p>
+			 quando é clicado uma vez
+		</p>
+	</div>
+
+	<div ondblclick="acao('Teste')" style="background: #ccc; height: 150px; width: 150px;">
+		<h3>ondblClick</h3>
+		<br/>
+		<p>
+			Double clique
+		</p>
+	</div>
+
+	<div onmouseup="acao('Teste')" style="background: #ccc; height: 150px; width: 150px;">
+		<h3>onmouseup</h3>
+		<br/>
+		<p>
+			 clique segurado, e ativa quando é desegurado
+		</p>
+	</div>
+
+	<div onmouseover="acao('Teste')" style="background: #ccc; height: 150px; width: 150px;">
+		<h3>onmouseover</h3>
+		<br/>
+		<p>
+			 quando subpoe sobre elemento, sem clicar
+		</p>
+	</div>
+
+	<div onmouseout="acao('Teste')" style="background: #ccc; height: 150px; width: 150px;">
+		<h3>onmouseout</h3>
+		<br/>
+		<p>
+			 quando o cursor do mouse sair do elemento
+		</p>
+	</div>
+
+	<div onclick="acao1()" onmouseout="acao2()" style="background: red; height: 150px; width: 150px;">
+		<h3>Vários eventos</h3>
+		<br/>
+		<p>
+			 Aplicação de vários elementos
+		</p>
+	</div>
+
+
+</body>

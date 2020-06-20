@@ -1,0 +1,50 @@
+#caixa{
+  width: 300px;
+  height: 300px;
+  background: #b9c941;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  /*utilizar webkit e moz para browsers antigos
+  -webkit-border-radius: 10px 50px 80px 100px;
+  -moz-border-radius: 10px 50px 80px 100px;
+  border-radius: 10px 50px 80px 100px;*/
+
+}
+
+#caixa2{
+  width: 400px;
+  height: 300px;
+  background: #b9c941;
+
+  /*utilizar webkit e moz para beowsers antigos
+  -webkit-border-radius: 10px 50px 80px 100px;
+  -moz-border-radius: 10px 50px 80px 100px;
+  border-radius: 10px 50px 80px 100px;*/
+
+}
+
+.arredondamento{
+  border-radius: 10px 50px 80px 100px;
+}
+
+/*========= Explicação =====================*/
+
+/*
+box-sizing:
+
+A box-sizing propriedade define como a largura e altura de um elemento são calculados: eles devem incluir preenchimento e fronteiras, ou não.
+Sintaxe:
+
+box-sizing: content-box|border-box|initial|inherit;
+
+
+Prefixo
+ -webkit- para safari e google chorme
+ -moz- mozila
+
+fonte:
+
+https://www.w3schools.com/cssref/css3_pr_box-sizing.asp
+
+*/

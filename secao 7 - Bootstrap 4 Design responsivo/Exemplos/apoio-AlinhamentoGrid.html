@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+
+  <title>Bootstrap - Configurações do grid</title>
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+
+  <style type="text/css">
+
+    .marcador{
+      background: #fe9d9d;
+      border: 1px border #f94646;
+    }
+
+    .marcador-container{
+      background: #5bf946;
+      border: 1px border #36ae26;
+    }
+    .borda{
+      border: 1px solid blue;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="container marcador-container">
+
+    <h2>Alinhamento vertical (align-items-ALINHAMENTO: start, center, end)</h2>
+    <div class="marcador row align-items-center"> 
+      <div class="col borda">área 1</div>
+      <div class="col borda">área 2</div>
+      <div class="col borda">área 3</div>
+    </div>
+
+    <h2>Alinhamento vertical individual (align-self-ALINHAMENTO: start, center, end)</h2>
+    <div class="marcador row "> 
+      <div class="marcador col align-self-start">área 1</div>
+      <div class="marcador col align-self-center">área 2</div>
+      <div class="marcador col align-self-end">área 3</div>
+    </div>
+
+    <h2>Alinhamento horizontal colunas (justify-content-ALINHAMENTO: start, center, end)</h2>
+    <div class="marcador row justify-content-center"> 
+      <div class="marcador col-sm">área 1</div>
+      <div class="marcador col-sm">área 2</div>
+      <div class="marcador col-sm">área 3</div>
+    </div>
+
+    <h2>Alinhamento horizontal colunas (justify-content-ALINHAMENTO: around, between)</h2>
+    <div class="row borda justify-content-around"> 
+      <div class="marcador col-2">área 1</div>
+      <div class="marcador col-2">área 2</div>
+      <div class="marcador col-2">área 3</div>
+      <div class="marcador col-2">área 4</div>
+    </div>
+
+    <h2>Removendo espaçamento</h2>
+    <div class="row no-gutters"> 
+      <div class="marcador col-md-4 order-2">área 1</div>
+      <div class="marcador col-md-4 order-3">área 2</div>
+      <div class="marcador col-md-4 order-1">área 3</div>
+    </div>
+
+  </div>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

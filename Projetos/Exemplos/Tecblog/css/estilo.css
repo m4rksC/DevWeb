@@ -1,0 +1,118 @@
+/*===== bibliotecas =============*/
+
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Montserrat|Nanum+Pen+Script|Source+Sans+Pro');
+
+
+/*============ ID =============*/
+*{
+	margin:0;
+  	padding:0; 
+}
+#cabecalho{
+	background: #FFCA04;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	margin-top: -25px;
+	z-index: 0;
+}
+
+/*============ classes =============*/
+.navegacao{
+	padding: 15px;
+	margin: 10px;
+}
+.conteudo{
+	background: white;
+	width: 50%;
+	margin: 35px;
+	padding: 10px;
+	float: left;
+	position: static;
+	text-align: center;
+	z-index: 1;
+}
+.titulo{
+	text-align: left;
+	position: left;
+
+}
+.maisconteudo{
+	float: right;
+	position: relative;
+	margin-top: 35px;
+	z-index: 2;
+
+}
+.menu{
+	width: 50%;
+	padding: 10px;
+	background: white;
+
+}
+
+/*============ específicos =============*/
+body{
+	background: #FBF8FB;
+}
+h1,h2,h3,a{
+	font-family: 'Concert One', cursive;}
+
+
+p{font-family: 'Source Sans Pro', sans-serif;
+}
+li{
+	color: #F9C251;
+	font-size: 20px;
+	font-style: bold;
+	padding: 10px;
+	list-style: none;
+
+}
+
+span{
+	color: #FBF8FB;
+	font-size: 40px;
+
+}
+h1{
+	color: #4D494D;
+	padding: 15px;
+	margin: 25px;
+	font-size: 40px;
+}	
+h2{
+	color: #F9C251;
+	padding: 5px;
+}
+
+h3{
+	color: #4D494D;
+	font-style: bold;
+	background: #DCDADD;
+	padding: 5px;
+}
+h4{
+	padding: 5px;
+	font-style: italic;
+}
+
+
+b{
+	color:#F9C251;
+}
+a{
+	font-size: 25px;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	background: #4D494D;
+	color:#FFCA04;
+}
+
+img{
+	max-width: 100%;
+	min-width: 25%;
+}

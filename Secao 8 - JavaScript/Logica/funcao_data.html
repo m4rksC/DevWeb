@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>JavaScript</title>
+	
+	<script>
+		
+		/*
+	
+		var data = new Date()
+
+		//adicionar / remover dias
+		document.write(data.toString())
+		data.setDate(data.getData() + 720)
+		document.write('<hr />')
+		document.write(data.toString())
+		document.write('<br><hr />')
+
+		//adicionar / remover meses
+		document.write(data.toString())
+		data.getMonth(data.getMonth() - 120)
+		document.write('<hr />')
+		document.write(data.toString())
+
+		//adicionar / remover anos
+		document.write(data.toString())
+		data.getFullYear(data.getFullYear() + 2)
+		document.write('<hr />')
+		document.write(data.toString())
+		*/
+
+		//15/01/2017
+		var data1 = new Date(2017, 0, 15)
+
+		//23/02/2017
+		var data2 = new Date(2017, 1, 23)
+
+		document.write(data1.toString())
+		document.write('<br />')
+		document.write(data2.toString())
+		document.write('<hr />')
+
+		//converter data para calcular
+		document.write(data1.getTime())
+		document.write('<br />')
+		document.write(data2.getTime())
+		document.write('<hr />')
+
+		//1 de janeiro de 1970
+		document.write('<br /><br /> <hr/>')
+		//encontrar a qtde de milisegundos entre data1 e data2
+		document.write(Math.abs(data1.getTime() - data2.getTime()))
+
+		var miliseegundos_entre_datas = Math.abs(data1.getTime() - data2.getTime())
+		var miliseegundos_entre_dia = (1*24*60*1000)
+		//Qts milisegundos tem um dia?
+		document.write('1 dia tem: '+ miliseegundos_entre_dia  + 'milisegundos')
+		document.write('<br /><br /> <hr/>')
+		document.write('A diferencia de data1 e data2 é de: ' + Math.ceil(miliseegundos_entre_dia / miliseegundos_entre_datas))
+
+	</script>
+
+</head>
+<body>
+<h1>Curso de JavaScript</h1>
+
+</body>

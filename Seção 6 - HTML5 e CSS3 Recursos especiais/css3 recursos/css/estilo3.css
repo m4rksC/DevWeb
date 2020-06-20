@@ -1,0 +1,27 @@
+#caixa{
+  width: 300px;
+  height: 300px;
+  padding: 8px;
+  background: #009670;
+  box-shadow: 20px 20px 2px black;
+  
+  }
+#caixa h1{
+  color: white;
+  text-shadow: 20px 20px 5px rgba(0,0,0,0.2);
+  
+}
+
+  /*
+  Sintaxe = text-shadow
+  
+  text-shadow: 20px 20px 5px rgba(0,0,0,0.2);
+  text-shadow: width, height, borrado, cor;
+  */
+
+  /*
+  Sintaxe = box-shadow
+  
+  box-shadow: 20px 20px 5px 20px black;
+  text-shadow: width, height, borrado, espalhamento, cor;
+  */

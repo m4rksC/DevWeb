@@ -1,0 +1,27 @@
+/*
+#pagina p {
+	color: red !important;
+	/*este atributo é mais importante que outros,
+	use com cautéla
+}
+#pagina p{
+	color: blue;
+}
+*/
+
+*{
+	color: red;
+}
+
+h2{
+	color: blue;
+}
+
+h2.verde{
+	color: green;
+}
+
+h2#amarelo{
+	color: green;
+	/*id é mais prioritário que a classe*/
+}
